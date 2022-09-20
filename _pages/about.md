@@ -6,7 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-# Mac mini DIY
+## Mac mini DIY
 Mac mini DIY 主要指的是利用**Mac mini**的机壳DIY组装成迷你主机。
 
 因为**Mac mini**的空间有限，通常都需要搭配超薄主板+配套的定制散热；
@@ -17,7 +17,3 @@ Mac mini DIY 主要指的是利用**Mac mini**的机壳DIY组装成迷你主机�
 
 ---
 
-欢迎加入我们的QQ群：1065789946  
-一起讨论各种迷你小主机的DIY方案。
-
-如果你有好的方案或者文章愿意分享进来，也欢迎进群联系我们。
