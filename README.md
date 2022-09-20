@@ -1,3 +1,9 @@
+---
+layout: home
+title: 前言
+permalink: /
+---
+
 # Introduction/介绍
 
 欢迎入坑DIY mini 主机
