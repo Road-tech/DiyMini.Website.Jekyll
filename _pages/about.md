@@ -1,5 +1,5 @@
 ---
-title: 关于
+title: 关于Mac Mini
 author: Road
 date: 2020-12-28
 category: Jekyll
